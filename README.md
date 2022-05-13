@@ -19,7 +19,7 @@
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/teamwork.png"/> I’m open to collaborate with any **Open Source** projects.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/connectivity-and-help.png"/> I’m looking for help with **[...](#)**.</span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/learning.png"/> I’m currently learning **...**.</span>
-- <span><img width="20px" src="https://img.icons8.com/color/48/000000/important-mail.png"/> How to reach me? Email me at **martin.opensource@gmail.com**.<span>
+- <span><img width="20px" src="https://img.icons8.com/color/48/000000/important-mail.png"/> How to reach me? Email me at **[マーティン.オープンソース@gmail.com](martin.opensource@gmail.com)**.<span>
 - <span><img width="20px" src="https://img.icons8.com/color/48/000000/prototype.png"/> All of my projects are available at **...**.<span>
 
 <br>
