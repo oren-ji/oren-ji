@@ -281,26 +281,56 @@
 </td>
 </tr>
 
-</table>
 
-<div align="center">
-  <!-- Cloud Platforms -->
-  <!-- Cloud Technologies -->
+<tr>
+<td>Cloud Platforms</td>
+<td>
+</td>
+</tr>
+
+
+<tr>
+<td>Cloud Technologies</td>
+<td>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <!-- Version Control Tools-->
+</td>
+</tr>
+
+
+<tr>
+<td>Version Control Tools</td>
+<td>
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/>
-  <!-- Editors/IDEs -->
+</td>
+</tr>
+
+
+<tr>
+<td>Editors/IDEs</td>
+<td>
   <img src="https://img.shields.io/badge/sublime text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
   <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
   <img src="https://img.shields.io/badge/codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white"/>
-  <!-- Virtualizations -->
+</td>
+</tr>
+
+
+<tr>
+<td>Virtualizations</td>
+<td>
   <img src="https://img.shields.io/badge/vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
   <img src="https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <!-- OSes -->
+</td>
+</tr>
+
+
+<tr>
+<td>OS</td>
+<td>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
@@ -313,31 +343,70 @@
   <img src="https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
   <img src="https://img.shields.io/badge/opensuse-73BA25?style=for-the-badge&logo=opensuse&logoColor=white"/>
   <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"/>
-  <!-- Terminals -->
+</td>
+</tr>
+
+
+<tr>
+<td>Terminals</td>
+<td>
   <img src="https://img.shields.io/badge/gnu bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/gnome terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"/>
-  <!-- Remote Tools -->
+</td>
+</tr>
+
+
+<tr>
+<td>Remote Tools</td>
+<td>
   <img src="https://img.shields.io/badge/teamviewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white"/>
-  <!-- Project Management Tools -->
+</td>
+</tr>
+
+
+<tr>
+<td>Project Management Tools</td>
+<td>
   <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/asana-273347?style=for-the-badge&logo=asana&logoColor=white"/>
   <img src="https://img.shields.io/badge/thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white"/>
-  <!-- Documentation Tools -->
+</td>
+</tr>
+
+
+<tr>
+<td>Documentation Tools</td>
+<td>
   <img src="https://img.shields.io/badge/ms word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
   <img src="https://img.shields.io/badge/ms excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/stackedit-606060?style=for-the-badge&logo=stackedit&logoColor=white"/>
-  <!-- Browsers -->
+</td>
+</tr>
+
+
+<tr>
+<td>Browsers</td>
+<td>
   <img src="https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
   <img src="https://img.shields.io/badge/opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white"/>
-  <!-- References -->
+</td>
+</tr>
+
+
+<tr>
+<td>References</td>
+<td>
   <img src="https://img.shields.io/badge/hacker noon-00FE000?style=for-the-badge&logo=hackernoon&logoColor=white"/>
   <img src="https://img.shields.io/badge/ask ubuntu-DC461D?style=for-the-badge&logo=askubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/stackshare-0690FA?style=for-the-badge&logo=stackshare&logoColor=white"/>
-</div>
+</td>
+</tr>
+
+</table>
 
 <br>
 <br>
