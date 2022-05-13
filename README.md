@@ -25,5 +25,22 @@
 <br>
 <br>
   
+<div align="center">
+<!-- <a href="https://github.com/oren-ji/oren-ji">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oren-ji&repo=oren-ji&show_owner=true"/>
+</a> -->
+</div>
 
+<br>
+<br>
+
+<h3 align="center">Stats</h3>
+
+<br>
+
+<div align="center">
+<img align="left" height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=oren-ji&count_private=true&show_icons=true&include_all_commits=true&custom_title=Github Stats&hide_title=true"/>
+
+<img align="right" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oren-ji&langs_count=8&layout=compact&hide_title=true"/>
+</div>
   
