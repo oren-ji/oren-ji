@@ -121,50 +121,119 @@
 
 <br>
 
-<div align="center">
-  <!-- Languages -->
+<table align="center">
+<tr>
+<td>Languages</td>
+<td>
+
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <!-- Scripting -->
+</td>
+</tr>
+
+<tr>
+<td>Scripting</td>
+<td>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <!-- Front-end Frameworks, Libraries -->
+</td>
+</tr>
+
+
+<tr>
+<td>Front-end Frameworks, Libraries</td>
+<td>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sencha-86BC40?style=for-the-badge&logo=sencha&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/font awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>
-  <!-- CMS Frameworks, Libraries -->
+</td>
+</tr>
+
+<tr>
+<td>CMS Frameworks, Libraries</td>
+<td>
   <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <!-- Back-end Frameworks, Libraries -->
+</td>
+</tr>
+
+<tr>
+<td>Back-end Frameworks, Libraries</td>
+<td>
   <img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <!-- Machine Learning Frameworks, Libraries -->
+</td>
+</tr>
+
+<tr>
+<td>Machine Learning Frameworks, Libraries</td>
+<td>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <!-- Other Frameworks, Libraries -->
+</td>
+</tr>
+
+
+<tr>
+<td>Other Frameworks, Libraries</td>
+<td>
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/underscore.js-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
-  <!-- Models -->
-  <!-- Authentications -->
-  <!-- API Tools -->
+</td>
+</tr>
+
+
+<tr>
+<td>Data / Models</td>
+<td>
+</td>
+</tr>
+
+
+<tr>
+<td>Authentications / Securities</td>
+<td>
+</td>
+</tr>
+
+
+<tr>
+<td>API Tools</td>
+<td>
   <img src="https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white"/>
-  <!-- Linters / Scanners -->
+</td>
+</tr>
+
+
+<tr>
+<td>Linters / Scanners</td>
+<td>
   <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <!-- Package Managers / Build Tools -->
+</td>
+</tr>
+
+<tr>
+<td>Package Managers / Build Tools</td>
+<td>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white"/>
   <img src="https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
   <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"/>
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
-  <!-- Databases -->
+</td>
+</tr>
+
+<tr>
+<td>Databases</td>
+<td>
   <img src="https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47A24B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -172,18 +241,49 @@
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/ms sql server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/ms access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
-  <!-- Database Tools -->
+</td>
+</tr>
+
+<tr>
+<td>Database Tools</td>
+<td>
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
-  <!-- Reporting Tools -->
+</td>
+</tr>
+
+<tr>
+<td>Reporting Tools</td>
+<td>
   <img src="https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
-  <!-- CI/CD -->
+</td>
+</tr>
+
+<tr>
+<td>CI/CD</td>
+<td>
   <img src="https://img.shields.io/badge/portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
-  <!-- Servers -->
+</td>
+</tr>
+
+<tr>
+<td>Servers</td>
+<td>
   <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <!-- Fiddles -->
+</td>
+</tr>
+
+<tr>
+<td>Fiddles</td>
+<td>
+</td>
+</tr>
+
+</table>
+
+<div align="center">
   <!-- Cloud Platforms -->
   <!-- Cloud Technologies -->
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
